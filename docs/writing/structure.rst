@@ -174,7 +174,7 @@ Test Suite
 ::::::::::
 
 
-*For advice on writing your tests, see :doc:`writing/tests`.*
+*For advice on writing your tests, see :doc:`tests`.*
 
 .. csv-table::
    :widths: 20, 40
